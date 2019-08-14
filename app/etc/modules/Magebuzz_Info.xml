@@ -3,7 +3,7 @@
 	<modules>
 		<Magebuzz_Info>
 			<active>true</active>
-			<codePool>community</codePool>
+			<codePool>local</codePool>
 		</Magebuzz_Info>
 	</modules>
 </config> 
