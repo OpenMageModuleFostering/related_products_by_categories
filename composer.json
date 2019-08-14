@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/related_products_by_categories",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Navigate related products by category so easily",
+    "authors": [
+    {
+        "name": "Magebuzz",
+        "email": "magebuzz@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
